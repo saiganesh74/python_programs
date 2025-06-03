@@ -6,4 +6,4 @@ class ASC():
         res =ord(self.ch)
         print(f"The ASCII value of {self.ch} is :{res}")
 a = ASC(ch)
-a.converter()
+a.converter()   
