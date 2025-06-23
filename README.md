@@ -4,6 +4,7 @@ A beginner-friendly collection of simple Python programs to help you learn the f
 - Covers basic to advanced topics: conditionals, loops, functions, recursion, file handling, and more.
 - Includes well-commented code and clean structure.
 - Also contains algorithms and data structures in Python for further learning.
+- Easy understandable
 
 ## Install python (Ubuntu)
 ```
