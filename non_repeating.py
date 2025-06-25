@@ -1,5 +1,4 @@
 string = str(input("Enter the whole string: ")).lower()
-
 freq = {}
 for i in string:
     freq[i] = freq.get(i, 0) + 1
@@ -10,3 +9,4 @@ for i in string:
         break
 else:
     print("None")
+    
