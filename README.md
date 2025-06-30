@@ -22,7 +22,7 @@ git clone https://github.com/saiganesh74/python_programs.git
 cd python_programs
 ```
 - Run the required program
-```
+```py
   python3 Hello.py
 ```
 ## Contributing
