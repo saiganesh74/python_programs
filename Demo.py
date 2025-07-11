@@ -3,3 +3,5 @@ class Dog():
     Name = 'Hari'
     def bark():
         print('bark')
+D = Dog()
+D.bark()
